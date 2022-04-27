@@ -24,4 +24,4 @@ $ git clone https://github.com/QuicksilverYT/Screamo-Bot-Website
 
 ## License
 
-[MIT](https://tldrlegal.com/license/mit-license)
+[MIT](https://github.com/QuicksilverYT/Screamo-Bot-Website/blob/main/LICENSE)
